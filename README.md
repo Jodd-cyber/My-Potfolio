@@ -68,10 +68,4 @@ Tools and Platforms:
 - Contact form with backend email support
 - Smooth UI animations using Framer Motion
 
-## Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Jodd-cyber/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
