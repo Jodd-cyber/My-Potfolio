@@ -1,16 +1,77 @@
-# React + Vite
+# Akshat Batra Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal developer portfolio built to showcase my skills, projects, experience, and contact details in a clean and interactive format.
 
-Currently, two official plugins are available:
+The portfolio focuses on full-stack web development, responsive UI design, and selected AI/ML project work. It includes sections for about me, experience, technical skills, featured projects, resume, and a contact form.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Preview
 
-## React Compiler
+Add your deployed portfolio link here:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://my-portfolio-two-sepia-52.vercel.app/
 
-## Expanding the ESLint configuration
+## About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I am a Full Stack Developer interested in building practical web applications and exploring how AI can make them smarter and more useful.
+
+This portfolio represents my current work, learning journey, and selected projects across frontend development, backend APIs, databases, and AI-based features.
+
+## Featured Projects
+
+### BiteTrack
+A MERN stack food expense and analytics application with authentication, expense tracking, and dashboard-based data visualization.
+
+Tech used: React, Node.js, Express.js, MongoDB, JWT, OAuth
+
+### Deepfake Detector
+An AI/ML project focused on detecting manipulated images using computer vision and deep learning concepts.
+
+Tech used: Python, OpenCV, PyTorch/TensorFlow, CNN, Deep Learning
+
+### Car Price Predictor
+A machine learning based web application that predicts car prices using trained models and a Flask backend.
+
+Tech used: Python, Flask, Scikit-learn, Pandas, Machine Learning
+
+## Tech Stack
+
+Frontend:
+- React.js
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- React Icons
+
+Backend:
+- Node.js
+- Express.js
+- Nodemailer
+
+Tools and Platforms:
+- Git
+- GitHub
+- Vite
+- Vercel
+- Firebase
+- MongoDB
+
+## Features
+
+- Responsive portfolio layout
+- Animated hero section
+- About and education sections
+- Experience timeline
+- Technical skills section
+- Featured project cards
+- Resume preview and download
+- Contact form with backend email support
+- Smooth UI animations using Framer Motion
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Jodd-cyber/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
