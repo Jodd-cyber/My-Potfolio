@@ -25,7 +25,7 @@ const Projects = () => {
     {
       title: 'Deepfake Detector',
       subtitle: 'Advanced Computer Vision AI',
-      description: 'Deep learning application leveraging CNNs and transfer learning to detect manipulated images with 94% accuracy.',
+      description: 'Deep learning application leveraging CNNs and transfer learning to detect manipulated images with 84% accuracy.',
       tech: ['Python', 'OpenCV', 'TensorFlow', 'CNN', 'Deep Learning'],
       github: 'https://github.com/Jodd-cyber/DEEPFAKE-IMAGE-DETECTOR-',
       live: null,
